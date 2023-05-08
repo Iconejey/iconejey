@@ -1,8 +1,8 @@
 ## About me
 
--   📖 3rd year French computer science student.
--   💻 Working on a to do list progressive web app.
--   🕸 Asspionate web HTML / CSS / SCSS / JS / NODE developer.
+-   📖 4th year French computer science student.
+-   💻 Working on a personnal project : [notask.app](https://notask.app).
+-   🕸 Full stack Node web developper.
 -   🐍 Python was my first love.
 
 ### Contact:
